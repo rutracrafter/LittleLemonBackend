@@ -1,0 +1,10 @@
+/restaurant/menu
+/restaurant/menu/<int:pk>
+/restaurant/booking
+/restaurant/booking/tables
+/auth/token/login
+/auth/token/logout
+/auth/users
+/auth/me
+/auth/me
+/restaurant/api-token-auth/
